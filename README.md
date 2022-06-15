@@ -1,1 +1,4 @@
-# Calculator App using Jetpack Compose 🤩🤩
+## Calculator App using Jetpack Compose
+- built with Kotlin & Jetpack Compose 🚀
+- Simple UI 🥳
+
